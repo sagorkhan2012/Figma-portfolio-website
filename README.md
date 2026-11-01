@@ -17,3 +17,12 @@ A portfolio website developed from a Figma design with a focus on pixel-perfect 
 
 ## Author
 Sagor Khan
+
+
+## Live Demo
+
+🚀 **Live Website:** [Visit Figma Portfolio Website](https://sagorkhan2012.github.io/Figma-portfolio-website/)
+
+## Figma Design
+
+🎨 **Original Figma Design:** [View Figma File](https://www.figma.com/design/tsKovePQ8P3619KLWaN3p4/protfolio--Copy---Copy-?node-id=1-2&t=PTvCBdpKqz804YkQ-0)
